@@ -308,3 +308,10 @@ h3 {
   text-align: center;
   padding: 10px;
 }
+
+footer{
+  color:black;
+  text-align: center;
+  margin-top: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
